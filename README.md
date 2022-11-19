@@ -18,6 +18,6 @@ $ git clone https://github.com/Dhanz03/Ubah_cookies_jadi_token.git
 
 $ cd Ubah_cookies_jadi_token 
 
-$ python cookies-token.py
+$ python cookie-token.py
 
 # Bermanfaat Untuk yang suka crack Fecebook 
